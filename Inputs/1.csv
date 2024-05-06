@@ -1,0 +1,3 @@
+Element,Property,Nominal,Actual,Tol -,Tol +,Dev,Check,Out
+Datum D,Parallelism,0,64,0,0.1,"64,000","64,000",-0.1
+Datum D,Flatness,0,42,0,0.01,42,42,32
